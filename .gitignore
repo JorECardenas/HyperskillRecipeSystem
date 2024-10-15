@@ -1,0 +1,23 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Recipe Management System (1)/*
+!/Recipe Management System (1)/task/
+/Recipe Management System (1)/task/*
+!/Recipe Management System (1)/task/src
+!/Recipe Management System (1)/task/build.gradle
+
+# Project exclude paths
+/Recipe Management System/task/out/
+/Recipe Management System/task/out/production/classes/
+/Topics/HashMap/Remove long names/out/
+/Topics/HashMap/Remove long names/out/production/classes/
